@@ -65,9 +65,9 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ---
 
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
-# 👋 سلام، من کارن صفایی قادی هستم
+# 👋 سلام، من کارن صفایی قاضی هستم
 
 **Full-Stack Web Developer | ساختن تجربه‌های یکپارچه از پایگاه داده تا رابط کاربری**
 
@@ -85,21 +85,26 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 ## 🚀 مهارت‌ها (با جزئیات)
 
 ### 🎨 توسعه‌ی سمت کاربر
-- **HTML5 و CSS3** — ساختار معنایی، دسترسی‌پذیری و طراحی‌های پیکسلی با انیمیشن‌های روان.
-- **JavaScript (ES6+)** — برنامه‌نویسی غیرهم‌زمان، کار با DOM و راه‌حل‌های بدون فریم‌ورک.
-- **jQuery** — نمونه‌سازی سریع، کار با DOM و ساخت پلاگین‌های سفارشی.
-- **Bootstrap** — چیدمان واکنش‌گرا، شخصی‌سازی کامپوننت‌ها و توسعه‌ی سریع.
-- **Tailwind CSS** — طراحی utility-first، ساخت دیزاین‌سیستم و استایل‌دهی فوق سریع.
+<ul dir="rtl" style="text-align: right;">
+  <li><b>HTML5 و CSS3</b> — ساختار معنایی، دسترسی‌پذیری و طراحی‌های پیکسلی با انیمیشن‌های روان.</li>
+  <li><b>JavaScript (ES6+)</b> — برنامه‌نویسی غیرهم‌زمان، کار با DOM و راه‌حل‌های بدون فریم‌ورک.</li>
+  <li><b>jQuery</b> — نمونه‌سازی سریع، کار با DOM و ساخت پلاگین‌های سفارشی.</li>
+  <li><b>Bootstrap</b> — چیدمان واکنش‌گرا، شخصی‌سازی کامپوننت‌ها و توسعه‌ی سریع.</li>
+  <li><b>Tailwind CSS</b> — طراحی utility-first، ساخت دیزاین‌سیستم و استایل‌دهی فوق سریع.</li>
+</ul>
 
 ### ⚙️ سمت سرور و ابزارها
-- **PHP** — برنامه‌نویسی شیءگرا، معماری MVC، احراز هویت امن و طراحی REST API.
-- **MySQL** — طراحی پایگاه داده نرمال‌سازی‌شده، کوئری‌های پیچیده، بهینه‌سازی ایندکس و مدیریت تراکنش.
-- **Node.js** — سرورهای سبک، ارتباط real-time و ابزارهای خط فرمان.
-- **Git** — گیت‌فلو حرفه‌ای، رفع conflict و همکاری تیمی.
+<ul dir="rtl" style="text-align: right;">
+  <li><b>PHP</b> — برنامه‌نویسی شیءگرا، معماری MVC، احراز هویت امن و طراحی REST API.</li>
+  <li><b>MySQL</b> — طراحی پایگاه داده نرمال‌سازی‌شده، کوئری‌های پیچیده، بهینه‌سازی ایندکس و مدیریت تراکنش.</li>
+  <li><b>Node.js</b> — سرورهای سبک، ارتباط real-time و ابزارهای خط فرمان.</li>
+  <li><b>Git</b> — گیت‌فلو حرفه‌ای، رفع conflict و همکاری تیمی.</li>
+</ul>
 
 ---
 
 ## 🛠️ ابزارها و تکنولوژی‌ها
+<div dir="rtl" style="text-align: right;">
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -110,6 +115,7 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
