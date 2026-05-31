@@ -47,7 +47,11 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="استریک گیت‌هاب" />
+  <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karan-Safaie-Qadi&layout=compact&theme=shades-of-purple" alt="Top Languages" />
 </div>
 
 ---
@@ -120,9 +124,11 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 آمار گیت‌هاب
 <div align="center">
-
-![استریک گیت‌هاب](https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple)
-
+  <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="استریک گیت‌هاب" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple" alt="آمار گیت‌هاب" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karan-Safaie-Qadi&layout=compact&theme=shades-of-purple" alt="زبان‌های برتر" />
 </div>
 
 ---
