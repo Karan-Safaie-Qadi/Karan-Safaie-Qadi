@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karan Safaie Qadi
+# 👋 Hi, I'm Karan
 
 **Full-Stack Web Developer | Crafting seamless experiences from database to pixel**
 
@@ -13,7 +13,7 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ---
 
-## 🚀 Skills (in detail)
+## 🚀 Skills
 
 ### 🎨 Frontend
 - **HTML5 & CSS3** — Semantic, accessible markup and pixel‑perfect layouts with smooth CSS animations.
@@ -67,7 +67,7 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 <div dir="rtl" style="text-align: right;">
 
-# 👋 سلام، من کارن صفایی قاضی هستم
+# 👋 سلام، من کارن هستم
 
 **Full-Stack Web Developer | ساختن تجربه‌های یکپارچه از پایگاه داده تا رابط کاربری**
 
@@ -82,7 +82,7 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ---
 
-## 🚀 مهارت‌ها (با جزئیات)
+## 🚀 مهارت‌ها
 
 ### 🎨 توسعه‌ی سمت کاربر
 <ul dir="rtl" style="text-align: right;">
