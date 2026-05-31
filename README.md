@@ -1,9 +1,7 @@
 <div style='text-align:center;'>
  <h1> 👋 Hi, I'm Karan </h1>
+ <strong>Full-Stack Web Developer | Crafting seamless experiences from database to pixel</strong>
 </div>
-
-
-**Full-Stack Web Developer | Crafting seamless experiences from database to pixel**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-safaie/)
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:karensefaie@gmail.com)
@@ -65,13 +63,11 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 ---
 
 <div dir="rtl" style="text-align: right;">
-
 <div style='text-align:center;'>
- <h1>  
-   👋 سلام، من کارن هستم
-</h1>
+ <h1> 👋 سلام، من کارن هستم </h1>
+ <strong>Full-Stack Web Developer | ساختن تجربه‌های یکپارچه از پایگاه داده تا رابط کاربری</strong>
 </div>
-**Full-Stack Web Developer | ساختن تجربه‌های یکپارچه از پایگاه داده تا رابط کاربری**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-safaie/)
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:karensefaie@gmail.com)
