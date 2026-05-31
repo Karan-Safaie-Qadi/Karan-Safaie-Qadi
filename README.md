@@ -46,8 +46,6 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple" alt="آمار گیت‌هاب (در صورت در دسترس نبودن سرویس، موقتاً نمایش داده نمی‌شود)" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="استریک گیت‌هاب" />
 </div>
 
@@ -120,8 +118,6 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 ## 📊 آمار گیت‌هاب
 <div align="center">
 
-![آمار گیت‌هاب کارن](https://github-readme-stats.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple)
-![زبان‌های پراستفاده](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Safaie-Qadi&layout=compact&theme=shades-of-purple)
 ![استریک گیت‌هاب](https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple)
 
 </div>
