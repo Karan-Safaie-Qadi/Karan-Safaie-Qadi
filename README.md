@@ -8,30 +8,30 @@
 
 ---
 
-## 💡 About Me
-I'm a detail-obsessed full‑stack developer who loves building fast, beautiful, and reliable web applications. I take an idea from a database schema all the way to the final CSS animation — and I enjoy every step of it.  
+## 👨‍💻 About Me
+I'm a detail-obsessed full-stack developer who loves building fast, beautiful, and reliable web applications. I take an idea from a database schema all the way to the final CSS animation — and I enjoy every step of it.  
 Clean code, meaningful variable names, and solid architecture aren't just buzzwords to me; they're the only way I build.
 
 ---
 
-## 🚀 Skills
+## 🛠 Skills
 
 ### 🎨 Frontend
-- **HTML5 & CSS3** — Semantic, accessible markup and pixel‑perfect layouts with smooth CSS animations.
-- **JavaScript (ES6+)** — Asynchronous programming, DOM manipulation, and modular, vanilla‑JS solutions when frameworks aren't needed.
+- **HTML5 & CSS3** — Semantic, accessible markup and pixel-perfect layouts with smooth CSS animations.
+- **JavaScript (ES6+)** — Asynchronous programming, DOM manipulation, and modular, vanilla-JS solutions when frameworks aren't needed.
 - **jQuery** — Fast prototyping, DOM traversal, and custom plugins for legacy systems.
 - **Bootstrap** — Responsive grid system, component customization, and rapid UI development.
-- **Tailwind CSS** — Utility‑first workflows, design‑system creation, and blazing‑fast styling.
+- **Tailwind CSS** — Utility-first workflows, design-system creation, and blazing-fast styling.
 
 ### ⚙️ Server & Tools
-- **PHP** — Object‑oriented programming, MVC architecture, secure authentication, and RESTful API design.
+- **PHP** — Object-oriented programming, MVC architecture, secure authentication, and RESTful API design.
 - **MySQL** — Normalized database design, complex queries, index optimization, and transaction management.
-- **Node.js** — Lightweight servers, real‑time WebSocket communication, and CLI tools.
+- **Node.js** — Lightweight servers, real-time WebSocket communication, and CLI tools.
 - **Git** — Professional Git flow, conflict resolution, and team collaboration.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,11 +47,20 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-dark.svg" alt="GitHub Stats" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-dark.svg" alt="GitHub Streak" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Safaie-Qadi&layout=compact&theme=shades-of-purple" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-dark.svg" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
@@ -68,45 +77,40 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 <div dir="rtl" align="right">
   <div align="center">
-    <h1> 👋 سلام، من کارن هستم </h1>
-    <strong>Full-Stack Web Developer | ساختن تجربه‌های یکپارچه از پایگاه داده تا رابط کاربری</strong>
+    <h1> 👋 سلام، من کاران هستم </h1>
+    <strong>توسعه‌دهنده فول‌استک | از دیتابیس تا پیکسل</strong>
   </div>
 </div>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-safaie/)
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:karensefaie@gmail.com)
 
 ---
 
-## 💡 درباره‌ی من
-توسعه‌دهنده‌ای دقیق و عاشق ساختن وب‌اپلیکیشن‌های سریع، زیبا و قابل‌اعتماد. از طراحی پایگاه داده تا آخرین جزئیات CSS را خودم انجام می‌دهم و از تمام مراحل کار لذت می‌برم.  
-کد تمیز، نام‌گذاری معنادار و معماری محکم برایم شعار نیست، تنها راهی است که بلدم.
+## 👨‍💻 درباره من
+من یک توسعه‌دهنده فول‌استک هستم که عاشق ساخت اپلیکیشن‌های سریع، زیبا و قابل اعتماد وب هستم. یک ایده را از دیتابیس تا انیمیشن CSS پیاده‌سازی می‌کنم و از تک تک مراحلش لذت می‌برم.  
+کد تمیز، معماری درست و اسم‌گذاری مناسب متغیرها برای من شعار نیست — تنها راهی است که می‌سازم.
 
 ---
 
-## 🚀 مهارت‌ها
+## 🛠 مهارت‌ها
 
-### 🎨 توسعه‌ی سمت کاربر
-<ul dir="rtl" style="text-align: right;">
-  <li><b>HTML5 و CSS3</b> — ساختار معنایی، دسترسی‌پذیری و طراحی‌های پیکسلی با انیمیشن‌های روان.</li>
-  <li><b>JavaScript (ES6+)</b> — برنامه‌نویسی غیرهم‌زمان، کار با DOM و راه‌حل‌های بدون فریم‌ورک.</li>
-  <li><b>jQuery</b> — نمونه‌سازی سریع، کار با DOM و ساخت پلاگین‌های سفارشی.</li>
-  <li><b>Bootstrap</b> — چیدمان واکنش‌گرا، شخصی‌سازی کامپوننت‌ها و توسعه‌ی سریع.</li>
-  <li><b>Tailwind CSS</b> — طراحی utility-first، ساخت دیزاین‌سیستم و استایل‌دهی فوق سریع.</li>
-</ul>
+### 🎨 فرانت‌اند
+- **HTML5 & CSS3** — مارک‌آپ معنایی و چیدمان دقیق با انیمیشن‌های روان CSS.
+- **JavaScript (ES6+)** — برنامه‌نویسی ناهمگام، کار با DOM، و راه‌حل‌های ماژولار.
+- **jQuery** — نمونه‌سازی سریع و پلاگین‌های سفارشی.
+- **Bootstrap** — سیستم گرید و کامپوننت‌های قابل تنظیم.
+- **Tailwind CSS** — طراحی سریع با رویکرد utility-first.
 
-### ⚙️ سمت سرور و ابزارها
-<ul dir="rtl" style="text-align: right;">
-  <li><b>PHP</b> — برنامه‌نویسی شیءگرا، معماری MVC، احراز هویت امن و طراحی REST API.</li>
-  <li><b>MySQL</b> — طراحی پایگاه داده نرمال‌سازی‌شده، کوئری‌های پیچیده، بهینه‌سازی ایندکس و مدیریت تراکنش.</li>
-  <li><b>Node.js</b> — سرورهای سبک، ارتباط real-time و ابزارهای خط فرمان.</li>
-  <li><b>Git</b> — گیت‌فلو حرفه‌ای، رفع conflict و همکاری تیمی.</li>
-</ul>
+### ⚙️ سرور و ابزارها
+- **PHP** — برنامه‌نویسی شی‌گرا، معماری MVC، احراز هویت امن و REST API.
+- **MySQL** — طراحی دیتابیس نرمال، کوئری‌های پیچیده و بهینه‌سازی.
+- **Node.js** — سرورهای سبک و ارتباطات real-time.
+- **Git** — گردش کار حرفه‌ای و مدیریت conflict.
 
 ---
 
-## 🛠️ ابزارها و تکنولوژی‌ها
+## 🧰 تکنولوژی‌ها
 <div dir="rtl" align="right">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -124,16 +128,25 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 آمار گیت‌هاب
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karan-Safaie-Qadi&theme=shades-of-purple" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-dark.svg" alt="آمار گیت‌هاب" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan-Safaie-Qadi&show_icons=true&theme=shades-of-purple" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-dark.svg" alt="مشارکت‌ها" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Safaie-Qadi&layout=compact&theme=shades-of-purple" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-github_dark.svg">
+    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-dark.svg" alt="زبان‌ها" />
+  </picture>
 </div>
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📫 ارتباط با من
 - 📧 **ایمیل:** [karensefaie@gmail.com](mailto:karensefaie@gmail.com)
 - 💼 **لینکدین:** [linkedin.com/in/karen-safaie](https://www.linkedin.com/in/karen-safaie/)
 
