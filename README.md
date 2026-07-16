@@ -48,12 +48,11 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- Dynamic API (auto-updates) -->
-  <img src="https://gh-readme-stats.pages.dev/api/stats?username=Karan-Safaie-Qadi&theme=github_dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-dark.svg" alt="GitHub Stats" />
   <br>
-  <img src="https://gh-readme-stats.pages.dev/api/streak?username=Karan-Safaie-Qadi&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-dark.svg" alt="GitHub Streak" />
   <br>
-  <img src="https://gh-readme-stats.pages.dev/api/top-langs?username=Karan-Safaie-Qadi&theme=github_dark" alt="Top Languages" />
+  <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-dark.svg" alt="Top Languages" />
 
 </div>
 
