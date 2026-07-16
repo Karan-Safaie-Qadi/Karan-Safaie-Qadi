@@ -47,20 +47,14 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 GitHub Stats
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-dark.svg" alt="GitHub Stats" />
-  </picture>
+
+  <!-- Dynamic API (auto-updates) -->
+  <img src="https://gh-readme-stats.pages.dev/api/stats?username=Karan-Safaie-Qadi&theme=github_dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-dark.svg" alt="GitHub Streak" />
-  </picture>
+  <img src="https://gh-readme-stats.pages.dev/api/streak?username=Karan-Safaie-Qadi&theme=github_dark" alt="GitHub Streak" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-dark.svg" alt="Top Languages" />
-  </picture>
+  <img src="https://gh-readme-stats.pages.dev/api/top-langs?username=Karan-Safaie-Qadi&theme=github_dark" alt="Top Languages" />
+
 </div>
 
 ---
@@ -128,20 +122,13 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 ## 📊 آمار گیت‌هاب
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/stats-dark.svg" alt="آمار گیت‌هاب" />
-  </picture>
+
+  <img src="https://gh-readme-stats.pages.dev/api/stats?username=Karan-Safaie-Qadi&theme=github_dark&show_icons=true&include_all_commits=true" alt="آمار گیت‌هاب" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/streak-dark.svg" alt="مشارکت‌ها" />
-  </picture>
+  <img src="https://gh-readme-stats.pages.dev/api/streak?username=Karan-Safaie-Qadi&theme=github_dark" alt="مشارکت‌ها" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-github_dark.svg">
-    <img src="https://karan-safaie-qadi.github.io/GhReadmeStats/svgs/top-langs-dark.svg" alt="زبان‌ها" />
-  </picture>
+  <img src="https://gh-readme-stats.pages.dev/api/top-langs?username=Karan-Safaie-Qadi&theme=github_dark" alt="زبان‌ها" />
+
 </div>
 
 ---
