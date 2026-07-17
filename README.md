@@ -79,7 +79,7 @@ Clean code, meaningful variable names, and solid architecture aren't just buzzwo
 
 <div dir="rtl" align="right">
   <div align="center">
-    <h1> 👋 سلام، من کاران هستم </h1>
+    <h1> 👋 سلام، من کارن هستم </h1>
     <strong>توسعه‌دهنده فول‌استک | از دیتابیس تا پیکسل</strong>
   </div>
 </div>
